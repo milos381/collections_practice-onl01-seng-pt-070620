@@ -9,6 +9,7 @@ def sort_array_char_count(array)
 end
 def swap_elements(array)
   array[1], array[2] = array[2], array[1]
+<<<<<<< HEAD
   array #we need to return an array after the process
 end
 def reverse_array(array)
@@ -42,4 +43,6 @@ def add_s(array)
     end
   end
   array
+=======
+>>>>>>> 7665f8057c4b95dc277375c373ee084b8a1aa030
 end
